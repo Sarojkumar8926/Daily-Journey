@@ -5,4 +5,5 @@ Day-1
     > pracise 2 python problems 
     > learn manage code in github
 
-Day-2 
+Day-2
+    > Pracise apptitude queestions
