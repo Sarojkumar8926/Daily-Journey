@@ -6,4 +6,4 @@ Day-1
     > learn manage code in github
 
 Day-2
-    > Pracise apptitude queestions
+    > Pracice apptitude queestions
