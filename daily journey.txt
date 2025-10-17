@@ -7,3 +7,6 @@ Day-1
 
 Day-2
     > Pracice apptitude queestions
+    > Solve 2 leetcode question
+Day-3
+    >
