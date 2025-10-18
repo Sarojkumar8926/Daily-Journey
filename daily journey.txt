@@ -6,7 +6,9 @@ Day-1
     > learn manage code in github
 
 Day-2
-    > Pracice apptitude queestions
+    > Pracice apptitude questions
     > Solve 2 leetcode question
 Day-3
+    >
+    >
     >
