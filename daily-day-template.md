@@ -1,7 +1,7 @@
 # Day [Number]: [Date]
 
 ## 🎯 Goal
-- 
+-  
 
 ## ✅ Task Completed
 - 
