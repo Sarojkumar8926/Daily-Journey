@@ -2,7 +2,7 @@
 
 ## 🎯 Goal
 -  Practice problems on LeetCode.
--  Learn mySQL fundamentals.
+-  Learn MySQL fundamentals.
 -  Practice quantitative aptitude questions.
 
 ## ✅ Task Completed
