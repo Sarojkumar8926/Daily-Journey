@@ -2,12 +2,12 @@
 
 ## 🎯 Goal
 -  Practice problems on LeetCode.
--  Learn MySql keys chapter.
+-  Learn the MySQL keys chapter.
 -  Practice reasoning questions.
 
 ## ✅ Task Completed
--  Solved a LeetCode problem on String.
--  Learned MySql keys chapter.
+-  Solved a LeetCode problem on Strings.
+-  Learned the MySQL keys chapter.
 -  Practiced reasoning questions.
 
 ## 💡 What I Learned
